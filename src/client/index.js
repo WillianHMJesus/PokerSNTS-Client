@@ -1,8 +1,7 @@
 import axios from 'axios';
 
 const client = axios.create({
-  //baseURL: "http://pokersnts.us-east-1.elasticbeanstalk.com"
-  baseURL: "https://localhost:44361/"
+  baseURL: "http://pokersnts-prd.us-east-2.elasticbeanstalk.com"
 });
 
 export default client;
