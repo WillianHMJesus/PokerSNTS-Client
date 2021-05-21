@@ -17,7 +17,7 @@ class Home extends Component {
       alerts: {
         errorVisible: false,
         errorModalVisible: false,
-        errorModalMessages: null
+        errorModalMessages: ''
       },
       loading: true,
       regexp: /^[1-9][\.\d]*(,\d+)?$/
@@ -207,7 +207,7 @@ class Home extends Component {
                   </div>
                 </div>
               </div>
-              <div class="table-responsive-sm">
+              <div className="table-responsive-sm">
                 <table className="table table-hover table-sm border">
                   <thead className="thead-dark border border-dark">
                     <tr>
