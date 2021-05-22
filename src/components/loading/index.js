@@ -8,7 +8,7 @@ class Loading extends Component {
         <div className="loader-container">
           <div className="loader">
             <h1 className="text-center text-white">Carregando...</h1>
-            <img src="https://s3.amazonaws.com/poker.snts/imagens/loading.gif" width="100%" height="100%" />
+            <img src="http://poker-snts.s3.us-east-2.amazonaws.com/imagens/loading.gif" width="100%" height="100%" />
           </div>
         </div>
       </React.Fragment>

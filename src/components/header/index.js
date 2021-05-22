@@ -18,7 +18,7 @@ class Header extends Component {
     return (
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <a className="navbar-brand" href="/">
-          <img src="https://s3.amazonaws.com/poker.snts/imagens/logo.png" width="30" height="30" className="d-inline-block align-top" alt="" />
+          <img src="https://poker-snts.s3.us-east-2.amazonaws.com/imagens/logo.png" width="30" height="30" className="d-inline-block align-top" alt="" />
         PokerSNTS
       </a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
