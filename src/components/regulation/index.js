@@ -26,10 +26,13 @@ class Regulation extends Component {
           <h2 className="text-center">Regulamento</h2>
           <div className="row ">&nbsp;</div>
           <p className="text-justify">
-            - Os participantes devem jogar ao menos 50% dos jogos válidos para receber premiação do ranking.<br /><br />
+          - Os participantes devem jogar ao menos 50% dos jogos válidos para receber premiação do ranking.<br /><br />
           - Valor de aposta para o ranking é de 50% do valor arrecadado, menos o valor da entrada do 2° colocado.<br /><br />
-          - Os ganhadores do ranking são 1° e 2° em pontos corridos e 1° em média. A divisão fica 50% para 1° em pontos, 25% para 2° em pontos e 25% para 1° em média.<br /><br />
+          - Os ganhadores do ranking são 1°, 2° e 3° em pontos corridos. A divisão fica 50% para o 1°, 35% para o 2° e 15% para o 3°.<br /><br />
           - O valor da aposta para o jogo é de 50% para o campeão da mesa e 1  aposta para o vice da mesa e o restante para o cofre do ranking.
+        </p>
+        <p>
+          <b>Observação:</b> Os rankings entre dezembro/2020 e abril/2021 as premiações eram distribuidas em 50% para 1° em pontos, 25% para 2° em pontos e 25% para 1° em média.
         </p>
         </div>
         <hr />
